@@ -1,6 +1,6 @@
-# mukemao
+# MuKeMao
 
-> 慕课网风格商城
+> 慕课网风格商城，vue2.0上手项目，个人vue + vue-router + vuex + axios + nodejs + express + mongodb全家桶项目
 
 ## Start
 
