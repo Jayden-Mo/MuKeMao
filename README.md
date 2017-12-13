@@ -20,4 +20,6 @@ npm run dev
 # 打包为线上可运行的文件
 npm run build
 
+# 独立跟进以及完成的项目，喜欢的star一下，感谢！
+
 ```
